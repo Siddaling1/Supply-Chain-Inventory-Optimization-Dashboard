@@ -109,4 +109,4 @@ This dashboard helps businesses improve:
 ---
 
 ## Author
-Sidharth
+S. Siddaling
