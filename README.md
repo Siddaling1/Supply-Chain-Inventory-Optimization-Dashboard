@@ -104,7 +104,7 @@ This dashboard helps businesses improve:
 ---
 
 ## File Included
-- Supply_Chain_Dashboard.xlsx
+- <a href="https://github.com/Siddaling1/Supply-Chain-Inventory-Optimization-Dashboard/blob/main/supply_chain_data.csv>Supply-Chain-Inventory.csv</a>
 
 ---
 
