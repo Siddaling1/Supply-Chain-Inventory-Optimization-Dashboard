@@ -28,6 +28,9 @@ The dashboard provides valuable insights into inventory management, supplier per
 - COUNTIF / SUMIF / AVERAGEIF
 
 ---
+## Dashboard Preview
+
+![Supply Chain Dashboard](https://raw.githubusercontent.com/Siddaling1/Supply-Chain-Inventory-Optimization-Dashboard/main/Screenshot%202026-06-13%20170603.png)
 
 ## Key Performance Indicators (KPIs)
 - Total Orders
@@ -102,9 +105,8 @@ This dashboard helps businesses improve:
 - Revenue analysis
 
 ---
-
 ## File Included
-- <a href="https://github.com/Siddaling1/Supply-Chain-Inventory-Optimization-Dashboard/blob/main/supply_chain_data.csv>Supply-Chain-Inventory.csv</a>
+- [Supply-Chain-Inventory.csv](https://github.com/Siddaling1/Supply-Chain-Inventory-Optimization-Dashboard/blob/main/supply_chain_data.csv)
 
 ---
 
